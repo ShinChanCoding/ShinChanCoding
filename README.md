@@ -49,7 +49,5 @@
 ### 🚌 Top Langs & Algorithm
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShinChanCoding&layout=compact)
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=juju6050)](https://solved.ac/juju6050)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ShinChanCoding&theme=flat&column=7)](https://github.com/ShinChanCoding/github-profile-trophy)
