@@ -3,7 +3,7 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FShinChanCoding%2Fhit-counter&count_bg=%2379C83D&title_bg=%231B1919&icon=spring.svg&icon_color=%2309D61D&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-### 안녕하세요, 안정성을 기반으로 새로운 기술을 습득해가는 개발자 이은엽입니다.
+### 안녕하세요! 안정성을 기반으로 새로운 기술을 습득해가는 개발자 이은엽입니다!!
 
 ### 🦾 Skills
 **🧑‍💻 Lang and Frameworks**
