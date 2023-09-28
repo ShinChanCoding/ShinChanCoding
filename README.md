@@ -4,10 +4,15 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FShinChanCoding%2Fhit-counter&count_bg=%2379C83D&title_bg=%231B1919&icon=spring.svg&icon_color=%2309D61D&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ### 🙌안녕하세요! 안정성을 기반으로 새로운 기술을 습득해가는 백엔드 개발자 이은엽입니다!!
+- ⌨️ 우리FISA 클라우드 서비스 개발 (2023.04 ~ 2023.09)
 
-### 🙋‍♂저에 대해서 조금 더 알 수 있는 포트폴리오입니다!!
+### Award
+- 🏆 우리FISA 최종 프로젝트(중고차 거래 플랫폼(WooChaCha)) - 최우수상 (2023.09)
+- 🏆 우리FISA 아이디어 융합해커톤(블록체인 기반 전세사기 예방 플랫폼 기획) - 우수상 (2023.09)
+- 🏆 우리FISA 특별상 (2023.09)
+- 🏆 우리FISA 1차 기술 세미나 - 수상 (2023.05)
+- 🏆 우리FISA 3차 기술 세미나 - 수상 (2023.08)
 
-### [이은엽 Notion 포트폴리오 링크](https://glistening-tick-fe0.notion.site/1a83ffdc51494c7db90ee6e2d40c8e89?pvs=4)
 ---
 ### 🦾 Skills
 **🧑‍💻 Lang and Frameworks**
