@@ -56,8 +56,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats-zeta-henna-95.vercel.app/api?username=ShinChanCoding&show_icons=true?username=ShinChanCoding&count_private=true)
 
-### 🚌 Top Langs & Algorithm
-
+### 🚌 Top Langs
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShinChanCoding&layout=compact)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ShinChanCoding&theme=flat&column=7)](https://github.com/ShinChanCoding/github-profile-trophy)
