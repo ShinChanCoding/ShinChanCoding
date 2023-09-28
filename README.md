@@ -7,6 +7,7 @@
 
 ### 저에 대해서 조금 더 알 수 있는 포트폴리오입니다!!
 
+
 ### [이은엽 Notion 포트폴리오 링크](https://glistening-tick-fe0.notion.site/1a83ffdc51494c7db90ee6e2d40c8e89?pvs=4)
 
 ### 🦾 Skills
