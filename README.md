@@ -53,8 +53,7 @@
 ---
 
 ### Git Hub Stats
-
-![Anurag's GitHub stats](https://github-readme-stats-zeta-henna-95.vercel.app/api?username=ShinChanCoding&show_icons=true?username=ShinChanCoding&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats-zeta-henna-95.vercel.app/api?username=ShinChanCoding&show_icons=true?username=ShinChanCoding&count_private=true&theme=radical)
 
 ### 🚌 Top Langs
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShinChanCoding&layout=compact)
